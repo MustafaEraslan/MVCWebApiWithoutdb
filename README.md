@@ -34,7 +34,7 @@ I generated code for Bootcamp using the Guid structure with BootcampEntity.cs. I
 I added the parameters of the participants with ParticipantEntity.cs. Added "Guid Id", "Name", "Surname", "Phone".  
 With ServiceResponse.cs, I managed to return an error message when the endpoint is not responding.  
 
-And finally, with swagger, my API project was up and running.  
+And finally, with swagger, my API project was up and running.   
 
 Kind regards,  
 Mustafa
